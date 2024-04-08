@@ -1,2 +1,2 @@
 # test
-just testing
+html dosyalari gelecek
